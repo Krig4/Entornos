@@ -6,7 +6,7 @@ namespace HolaMundo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Mundo Cruel");
+            Console.WriteLine("Adios Mundo Cruel");
         }
     }
 }
