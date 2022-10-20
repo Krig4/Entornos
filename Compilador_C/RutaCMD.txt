@@ -1,0 +1,1 @@
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /t:exe /out:Entornos.exe C:\Users\Mañana\Desktop\Alberto Guerra\Entornos\Compilador_C\Compilador_Entornos\Compilador Entornos\Program.cs

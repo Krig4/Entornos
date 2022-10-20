@@ -1,0 +1,13 @@
+C:\Users\Mañana\Desktop\Alberto Guerra\Entornos\Compilador C#\Compilador Entornos\Compilador Entornos\obj\Debug\netcoreapp3.1\Compilador Entornos.csprojAssemblyReference.cache
+C:\Users\Mañana\Desktop\Alberto Guerra\Entornos\Compilador C#\Compilador Entornos\Compilador Entornos\obj\Debug\netcoreapp3.1\Compilador Entornos.AssemblyInfoInputs.cache
+C:\Users\Mañana\Desktop\Alberto Guerra\Entornos\Compilador C#\Compilador Entornos\Compilador Entornos\obj\Debug\netcoreapp3.1\Compilador Entornos.AssemblyInfo.cs
+C:\Users\Mañana\Desktop\Alberto Guerra\Entornos\Compilador C#\Compilador Entornos\Compilador Entornos\obj\Debug\netcoreapp3.1\Compilador Entornos.csproj.CoreCompileInputs.cache
+C:\Users\Mañana\Desktop\Alberto Guerra\Entornos\Compilador C#\Compilador Entornos\Compilador Entornos\bin\Debug\netcoreapp3.1\Compilador Entornos.exe
+C:\Users\Mañana\Desktop\Alberto Guerra\Entornos\Compilador C#\Compilador Entornos\Compilador Entornos\bin\Debug\netcoreapp3.1\Compilador Entornos.deps.json
+C:\Users\Mañana\Desktop\Alberto Guerra\Entornos\Compilador C#\Compilador Entornos\Compilador Entornos\bin\Debug\netcoreapp3.1\Compilador Entornos.runtimeconfig.json
+C:\Users\Mañana\Desktop\Alberto Guerra\Entornos\Compilador C#\Compilador Entornos\Compilador Entornos\bin\Debug\netcoreapp3.1\Compilador Entornos.runtimeconfig.dev.json
+C:\Users\Mañana\Desktop\Alberto Guerra\Entornos\Compilador C#\Compilador Entornos\Compilador Entornos\bin\Debug\netcoreapp3.1\Compilador Entornos.dll
+C:\Users\Mañana\Desktop\Alberto Guerra\Entornos\Compilador C#\Compilador Entornos\Compilador Entornos\bin\Debug\netcoreapp3.1\Compilador Entornos.pdb
+C:\Users\Mañana\Desktop\Alberto Guerra\Entornos\Compilador C#\Compilador Entornos\Compilador Entornos\obj\Debug\netcoreapp3.1\Compilador Entornos.dll
+C:\Users\Mañana\Desktop\Alberto Guerra\Entornos\Compilador C#\Compilador Entornos\Compilador Entornos\obj\Debug\netcoreapp3.1\Compilador Entornos.pdb
+C:\Users\Mañana\Desktop\Alberto Guerra\Entornos\Compilador C#\Compilador Entornos\Compilador Entornos\obj\Debug\netcoreapp3.1\Compilador Entornos.genruntimeconfig.cache
